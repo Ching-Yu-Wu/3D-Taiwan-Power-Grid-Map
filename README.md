@@ -38,3 +38,6 @@ The 3D power grid map developed with Python Plotly can be applied in various sce
 4. **Emergency Response**: During outages or emergencies, the map can be a valuable resource for quickly identifying affected areas and planning restoration efforts.
 
 In conclusion, the creation of a 3D power grid map for Taipower, incorporating 345kV and 161kV lines, using Python Plotly, is a forward-looking approach that aligns with the need for enhanced visualizations and analytical tools in power grid management. This map serves as a valuable resource for day-to-day operations, analysis, and decision-making processes, contributing to the overall efficiency and resilience of Taipower's electrical infrastructure.
+
+
+![3D 電網圖](https://github.com/Ching-Yu-Wu/3D-Taiwan-Power-Grid-Map/assets/149152776/78a37d56-fbe5-41e1-8cdf-524d899b0a84)
